@@ -88,4 +88,7 @@ class Program
 <li id="ayjeqnk"><strong>Graph Algorithms</strong>: <strong>Dijkstra's algorithm</strong> is suitable for finding the shortest path in graphs with non-negative weights, while <strong>Kruskal's algorithm</strong> is used for finding the minimum spanning tree.</li>
 <li id="t2ba6pg"><strong>Sorting</strong>: <strong>QuickSort</strong> is an efficient sorting algorithm with an average time complexity of O(n log n).</li>
 </ul>
-![image](https://github.com/user-attachments/assets/ba83834a-2cc3-4a6a-82b8-3287c8ccf521)
+
+
+
+![image](https://github.com/user-attachments/assets/d72867fa-182f-4ab8-9e5b-98a0388610e3)
